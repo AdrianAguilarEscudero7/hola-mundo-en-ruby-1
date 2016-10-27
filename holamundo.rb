@@ -1,1 +1,2 @@
-puts "Hola Mundo" 
+puts "¡Hola Mundo!" 
+puts "Estamos aprendiendo Ruby :)"
